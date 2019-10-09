@@ -24,29 +24,33 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #A3BAFF;
+  background-color: #325580;
   color: white;
 }
 
 main {
   flex: 1;
+  background-color: #D1D8E6;  
   padding: 20px;
+  color:#325580;
 }
 
 nav {
-  background-color: #DCD3F5;
+  background-color: #8CA8CB;
   padding: 20px;
+  color: white;
 
 }
 
 nav li {
   padding: 5px;
+  color: white;
 }
 
 
 aside {
   padding: 20px;
-  background-color: #DCD3F5;
+  background-color: #8CA8CB;
   color: white;
 }
 
@@ -59,7 +63,7 @@ footer {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color: #A3BAFF;
+  background-color: #325580;
   color: white;
 }
 
